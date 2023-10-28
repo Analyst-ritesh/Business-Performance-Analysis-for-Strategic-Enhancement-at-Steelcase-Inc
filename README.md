@@ -1,11 +1,11 @@
-# Steelcase Inc. Sales Data Analysis for Business Growth and Optimization
+# Decor Inc. Sales Data Analysis for Business Growth and Optimization
 
 # Introduction:
-Steelcase Inc., a prominent manufacturer of office and residential furniture, aims to leverage its 4-year historical sales data for strategic decision-making. The objective of this comprehensive business performance analysis is to provide data-driven insights that will optimize operations, enhance customer experiences, and identify avenues for business expansion. The key challenge is to effectively analyze the sales data and derive actionable insights to drive substantial growth.
+Decor Inc., a prominent manufacturer of office and residential furniture, aims to leverage its 4-year historical sales data for strategic decision-making. The objective of this comprehensive business performance analysis is to provide data-driven insights that will optimize operations, enhance customer experiences, and identify avenues for business expansion. The key challenge is to effectively analyze the sales data and derive actionable insights to drive substantial growth.
 
 # About the Dataset:
 
-The dataset encompasses 4 years of historical sales data from Steelcase Inc. It includes information on product categories, regional contributions, customer segments, order insights, top-selling items, sales growth trends, key customer contributions, and delivery modes.
+The dataset encompasses 4 years of historical sales data from Decor Inc. It includes information on product categories, regional contributions, customer segments, order insights, top-selling items, sales growth trends, key customer contributions, and delivery modes.
 
 # Key Objectives:
 
